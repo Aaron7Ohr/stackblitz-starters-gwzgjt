@@ -1,0 +1,49 @@
+div.blue {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  border: 10px solid black;
+  padding: 20px;
+}
+
+div.red {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 20px solid black;
+  margin-left: 260px;
+}
+
+div.green {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  border: 10px solid black;
+  margin-left: 500px;
+}
+
+div.one {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  
+}
+
+div.two {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  margin-left: 100px;
+
+}
+
+div.tri {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  margin-left: 200px;
+
+}
